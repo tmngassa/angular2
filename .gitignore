@@ -1,0 +1,41 @@
+# Bower dependencies
+client/vendor
+
+# Built application, report and coverage
+client/target
+
+# Generated configuration module
+client/app/config
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+quickstart/node_modules
+client/node
+
+# Debug log from npm
+npm-debug.log
+
+# Generated Artifacts #
+target
+bin
+*.class
+.sass-cache
+# Package Files #
+*.jar
+*.war
+*.ear
+# IDEA files/directories #
+
+quickstart/.idea/
+quickstart/.idea_modules/
+
+*.ipr
+*.iws
+*.iml
+# IntelliJ #
+out/
+# Others #
+*.roo
+*.tmp
+*.zip
+*.DS_Store

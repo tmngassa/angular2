@@ -26,8 +26,8 @@ bin
 *.ear
 # IDEA files/directories #
 
-quickstart/.idea/
-quickstart/.idea_modules/
+.idea/
+quickstart-ts/node_modules/
 
 *.ipr
 *.iws

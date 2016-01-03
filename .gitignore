@@ -44,3 +44,4 @@ out/
 *.zip
 *.DS_Store
 *.map
+*.js

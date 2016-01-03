@@ -28,6 +28,9 @@ bin
 
 .idea/
 quickstart-ts/node_modules/
+quickstart/node_modules/
+data-input/node_modules
+display-data/node_modules
 
 *.ipr
 *.iws
@@ -40,3 +43,4 @@ out/
 *.tmp
 *.zip
 *.DS_Store
+*.map

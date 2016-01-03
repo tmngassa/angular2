@@ -9,7 +9,7 @@ client/app/config
 
 # Dependency directory
 # https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
-quickstart/node_modules
+node_modules
 client/node
 
 # Debug log from npm

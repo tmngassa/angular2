@@ -32,6 +32,7 @@ quickstart/node_modules/
 data-input/node_modules
 display-data/node_modules
 router/node_modules
+attribute-directive/node_modules
 
 *.ipr
 *.iws
